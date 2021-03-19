@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2021-03-19, v1.9.3
+- Updated changelog to 1.9.3
+
+## 2021-03-19, v1.9.2
+- Updated changlog to 1.9.2
+
 ## 2019-12-03, v1.9.1
 
 - Add link to PHPStan extension to readme [\#1834](https://github.com/fzaninotto/Faker/pull/1834) ([finwe](https://github.com/finwe))
