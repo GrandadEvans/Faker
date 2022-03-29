@@ -27,7 +27,7 @@
         "ext-intl": "*",
         "dealerdirect/phpcodesniffer-composer-installer": "~0.7.1",
         "phpunit/phpunit": "^8.5.22",
-        "slevomat/coding-standard": "^6.4.1",
+        "slevomat/coding-standard": "^7.1",
         "squizlabs/php_codesniffer": "^3.6.2"
     },
     "autoload": {
